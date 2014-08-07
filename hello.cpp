@@ -1,2 +1,3 @@
 cout<<"welcome";
 hii
+buy
